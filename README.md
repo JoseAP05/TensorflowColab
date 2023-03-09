@@ -75,3 +75,13 @@ Ya estás listo para crear un bloc de notas de Google Colab
 
 
 Has instalado TensorFlow en tu bloc de notas de Colab
+
+
+### Usar GPU para trabajar con TensorFlow
+1- Seleccionar pestaña de "Entorno de ejecución" y seleccionar opcion "Cambiar tipo de Entorno de ejecución".
+
+![!pip install tensorflow](https://user-images.githubusercontent.com/122324007/223323637-25aa5824-b79d-4a53-9afe-420ec2d4e754.png)
+
+2- Seleccionar "Acelerador de Hardware" y seleccionar GPU.
+
+![revisar version de TF](https://user-images.githubusercontent.com/122324007/223325190-a1c78ae9-1834-49b7-8163-1f899da30c39.png)
