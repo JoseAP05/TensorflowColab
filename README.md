@@ -99,4 +99,7 @@ La nueva versión de Tensorflow nos trajo nuevas opciones como:
 
 ### Como empezar un proyecto de machine learning usando Tensorflow
 - Coleccion de datos: Los datos que va a utilizar para el entrenamiento y las pruebas de su modelo. Deben ser datos de alta calidad.
-- 
+- Preprocesamiento de datos: Limpiar, dar forma y formatear nuestros datos.
+- Creacion de modelo: Hyperparametros.
+- Entrenamiento de modelo: Entrenamiento y prueba.
+- Evaluación de modelo: Presición, Perdida.
