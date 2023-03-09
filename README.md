@@ -88,3 +88,15 @@ Has instalado TensorFlow en tu bloc de notas de Colab
 <img width="453" alt="GPU" src="https://user-images.githubusercontent.com/63762598/223908053-f33cbd62-7e56-46ad-80bf-2b4229876b21.png">
 
 
+### Tensorflow 2.0
+La nueva versión de Tensorflow nos trajo nuevas opciones como:
+- Cambio en API
+- Reordenamientos de argumentos
+- Cambio de nombre de símbolo
+
+<img width="633" alt="Tensorflow2" src="https://user-images.githubusercontent.com/63762598/223909091-9ce43b6b-f509-449c-bfc7-ae79d0bdfbac.png">
+
+
+### Como empezar un proyecto de machine learning usando Tensorflow
+- Coleccion de datos: Los datos que va a utilizar para el entrenamiento y las pruebas de su modelo. Deben ser datos de alta calidad.
+- 
