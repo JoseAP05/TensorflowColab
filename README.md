@@ -80,8 +80,11 @@ Has instalado TensorFlow en tu bloc de notas de Colab
 ### Usar GPU para trabajar con TensorFlow
 1- Seleccionar pestaña de "Entorno de ejecución" y seleccionar opcion "Cambiar tipo de Entorno de ejecución".
 
-![!pip install tensorflow](https://user-images.githubusercontent.com/122324007/223323637-25aa5824-b79d-4a53-9afe-420ec2d4e754.png)
+<img width="384" alt="Acelerador" src="https://user-images.githubusercontent.com/63762598/223907977-63f32783-4f0c-4889-9cc1-a75c1bd17633.png">
+
 
 2- Seleccionar "Acelerador de Hardware" y seleccionar GPU.
 
-![revisar version de TF](https://user-images.githubusercontent.com/122324007/223325190-a1c78ae9-1834-49b7-8163-1f899da30c39.png)
+<img width="453" alt="GPU" src="https://user-images.githubusercontent.com/63762598/223908053-f33cbd62-7e56-46ad-80bf-2b4229876b21.png">
+
+
