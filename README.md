@@ -82,10 +82,19 @@ Has instalado TensorFlow en tu bloc de notas de Colab
 
 <img width="384" alt="Acelerador" src="https://user-images.githubusercontent.com/63762598/223907977-63f32783-4f0c-4889-9cc1-a75c1bd17633.png">
 
-
 2- Seleccionar "Acelerador de Hardware" y seleccionar GPU.
 
 <img width="453" alt="GPU" src="https://user-images.githubusercontent.com/63762598/223908053-f33cbd62-7e56-46ad-80bf-2b4229876b21.png">
+
+
+### GPU vs CPU in a simple model
+https://colab.research.google.com/drive/1fmUuLMJuRj4oz0g7T4jb5NnJU4D88zMD?usp=sharing 
+
+![image](https://user-images.githubusercontent.com/122326530/224867399-4bffc88c-406f-48b9-99d6-a3a283ce63c5.png)
+
+VS
+
+![image](https://user-images.githubusercontent.com/122326530/224867495-c1f438ad-7d6e-405a-8f0e-506a07a344ca.png)
 
 
 ### Tensorflow 2.0
